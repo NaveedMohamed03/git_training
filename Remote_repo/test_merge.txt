@@ -1,5 +1,1 @@
-test_merge 
-test_rebase
-
-new change
-test_commit
+check merge is it doing conflicts
