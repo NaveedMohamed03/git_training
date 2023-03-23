@@ -3,7 +3,4 @@ change1
 test_merge
 added new line in feature B
 added new line
-vinoth
-new line
-change
 
