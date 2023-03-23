@@ -3,5 +3,3 @@ change1
 test_merge
 added new line in feature B
 added new line
-added new line
-
