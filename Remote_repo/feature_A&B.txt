@@ -1,2 +1,3 @@
 changes done in feature a branch to test 
 rebase without merge.
+check direct merge is working or not
