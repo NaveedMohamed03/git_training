@@ -1,1 +1,1 @@
-check rebase merge in test_merge file
+direct merge check
