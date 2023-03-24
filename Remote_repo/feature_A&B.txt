@@ -1,1 +1,1 @@
-check rebase merge test
+check direct merge test
