@@ -1,1 +1,1 @@
-direct merge check in repo file
+rebase merge check in repo file
