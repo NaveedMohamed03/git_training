@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-rebase merge check
-=======
-check rebase merge
->>>>>>> feature-b
+rebase merge
