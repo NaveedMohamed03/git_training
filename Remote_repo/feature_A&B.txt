@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 feature - B
+=======
 feature - A
+>>>>>>> feature-A
