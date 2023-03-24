@@ -1,1 +1,1 @@
-check direct merge in feature a file
+check rebase merge in feature a file
