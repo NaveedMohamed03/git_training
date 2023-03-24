@@ -1,1 +1,1 @@
-check rebase merge in feature a file
+check
