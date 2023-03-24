@@ -1,1 +1,1 @@
-check direct merge test
+check direct merge in feature a file
