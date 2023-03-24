@@ -1,3 +1,1 @@
-feature B1
-feature A1
-merge1
+feature - A
